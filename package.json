@@ -1,0 +1,22 @@
+{
+  "name": "testg",
+  "version": "0.0.1",
+  "description": "this is a test file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tao1084733796/testg.git"
+  },
+  "keywords": [
+    "testg"
+  ],
+  "author": "myself",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tao1084733796/testg/issues"
+  },
+  "homepage": "https://github.com/tao1084733796/testg#readme"
+}
